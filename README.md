@@ -1,4 +1,4 @@
-# Below you can see the tasks I had to do
+# Below you can see the tasks I had to do about JS Objects
 
 ## 1 - Crie um objeto chamado pessoa que represente informações sobre uma pessoa. O objeto deve ter as seguintes propriedades: nome e notas. Adicione um método chamado calcularMediaNotas ao objeto pessoa. Este método deve calcular a média das notas da pessoa.
 
